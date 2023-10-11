@@ -25,7 +25,6 @@ Welcome to the Netflix Clone repository! This project is a showcase of my skills
 ## How to Use
 
 1. **Clone the Repository:**
-   ```bash
    git clone https://github.com/your-username/netflix-clone.git
 2. **Click the link below:**
    [Netflix Clone](https://netflix-responsive-pi.vercel.app/)
